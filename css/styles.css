@@ -1,7 +1,7 @@
 :root {
-    --pry-color: #1E2F67;
-    --sec-color: #A1C93A;
-    --tert-color: #3171DE;
+    --pry-color: #4B4B4D;
+    --sec-color: #E1C16E;
+    --tert-color: rgba(225, 193, 110, 0.7);
 	--font: 'Neurial-Grotesk', sans-serif;
     --font-bold: 'Neurial-Grotesk-bold', sans-serif;
     --font-medium: 'Neurial-Grotesk-medium', sans-serif;
